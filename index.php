@@ -1,0 +1,2 @@
+<?php
+// Klasser 1
